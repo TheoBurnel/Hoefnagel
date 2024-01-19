@@ -1,0 +1,76 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "?\n<span class=\"mw-mmv-title\"><a title=\"Schedelsche Weltchronik\" href=\"https://commons.wikimedia.org/wiki/File:Schedelsche_Weltchronik_d_241.jpg#/media/Datei:Schedelsche_Weltchronik_d_241.jpg\">Schedelsche Weltchronik von 1493: Konstanz\n<a title=\"Matth&auml;us Merian\" href=\"https://commons.wikimedia.org/wiki/File:De_Merian_Sueviae_078.jpg#/media/Datei:De_Merian_Sueviae_078.jpg\">Matth&auml;us Merian: Konstanz von Osten, 1633",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>?</p>\n<p><span class=\"mw-mmv-title\"><a title=\"Schedelsche Weltchronik\" href=\"https://commons.wikimedia.org/wiki/File:Schedelsche_Weltchronik_d_241.jpg#/media/Datei:Schedelsche_Weltchronik_d_241.jpg\">Schedelsche Weltchronik</a> von 1493: Konstanz</span></p>\n<p><a title=\"Matth&auml;us Merian\" href=\"https://commons.wikimedia.org/wiki/File:De_Merian_Sueviae_078.jpg#/media/Datei:De_Merian_Sueviae_078.jpg\">Matth&auml;us Merian</a>: Konstanz von Osten, 1633</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:40:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705678857733",
+    "dcterms:modified" : "2024-01-19T15:40:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3251,527,935,925"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3388.35703,1316.60778c86.33336,77.71899 208.12056,135.59369 330.49793,135.52454v0v0c122.37737,-0.06915 228.98859,-54.20999 330.49793,-135.52454c101.50934,-81.31455 140.96473,-205.22222 136.89672,-327.18519c-4.068,-121.96296 -51.65941,-241.98121 -136.89672,-327.18519c-85.23732,-85.20398 -208.12056,-135.59369 -330.49793,-135.52454c-122.37737,0.06915 -244.24888,50.59715 -330.49793,135.52454c-86.24905,84.9274 -136.87565,204.25419 -136.89672,327.18519c-0.02108,122.931 50.56336,249.4662 136.89672,327.18519z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_d881f537-b570-4eb9-a033-8f689ec18e9a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531788566/canvas/f1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Église",
+      "@type" : "oa:Tag",
+      "chars" : "Église"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "&Eacute;glise Saint Laurenzen\n(Absence de l'abbatiale)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>&Eacute;glise Saint Laurenzen</p>\n<p>(Absence de l'abbatiale)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:45:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705679106396",
+    "dcterms:modified" : "2024-01-19T15:45:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3007,2345,972,896"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3006.56025,2344.86098h485.99691v0h485.99691v448.20494v448.20494h-485.99691h-485.99691v-448.20494z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cec1d7a4-cce7-4512-8f22-0f55b42212c1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531788566/canvas/f1"
+    } ]
+  } ],
+  "@id" : "https://TheoBurnel.github.io/Hoefnagel/annotations/bfad3daf7ce44bf1c8606ca1bb6b6d5f.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
