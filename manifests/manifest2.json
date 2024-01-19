@@ -1,0 +1,178 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Théo Burnel IIIF",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Vues typographiques de Joris Hoefnagel",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Fonds de la Bibliothèque Nationale de France",
+  "sequences" : [ {
+    "@id" : "http://cea71bdd-6b19-4be2-8cdc-8a5ea151605b",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10051672m/canvas/f1",
+      "label" : "Vue de Rouen",
+      "height" : 1352,
+      "width" : 3920,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10051672m/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10051672m/f1"
+          },
+          "height" : 1352,
+          "width" : 3920,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10051672m/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10051672m/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10051672m/manifest.json",
+        "label" : "Bibliothèque municipale de Rouen, Est. topo. g 29",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178850h/canvas/f1",
+      "label" : "Vues de Barcelone et d'Eçila",
+      "height" : 4826,
+      "width" : 6458,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178850h/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178850h/f1"
+          },
+          "height" : 4826,
+          "width" : 6458,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178850h/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b53178850h/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178850h/manifest.json",
+        "label" : "BnF, département Cartes et plans, GE DD-1605 (6)",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178981k/canvas/f1",
+      "label" : "Vues d'Orleans et de Bourges",
+      "height" : 4946,
+      "width" : 6450,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178981k/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178981k/f1"
+          },
+          "height" : 4946,
+          "width" : 6450,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178981k/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b53178981k/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178981k/manifest.json",
+        "label" : "BnF, département Cartes et plans, GE DD-1606 (69)",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531788566/canvas/f1",
+      "label" : "Vues de Constance et de St Gall",
+      "height" : 4986,
+      "width" : 6584,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531788566/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531788566/f1"
+          },
+          "height" : 4986,
+          "width" : 6584,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531788566/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b531788566/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531788566/manifest.json",
+        "label" : "BnF, département Cartes et plans, GE DD-1606 (100)",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178868h/canvas/f1",
+      "label" : "Vues de Burgos et de St Sebastian",
+      "height" : 4824,
+      "width" : 6282,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178868h/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178868h/f1"
+          },
+          "height" : 4824,
+          "width" : 6282,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178868h/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b53178868h/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178868h/manifest.json",
+        "label" : "BnF, département Cartes et plans, GE DD-1605 (7)",
+        "format" : ""
+      }
+    } ]
+  } ],
+  "structures" : [ ]
+}
