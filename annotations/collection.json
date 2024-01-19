@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://TheoBurnel.github.io/Hoefnagel/annotations/46ce851c389f8615df10d7ba6d9615c0.json", "https://TheoBurnel.github.io/Hoefnagel/annotations/74269b7a522161a1691c247904b95b99.json", "https://TheoBurnel.github.io/Hoefnagel/annotations/b74a2eb4cdeea6f30416a1d5eceac6c8.json" ],
+  "otherContent" : [ "https://TheoBurnel.github.io/Hoefnagel/annotations/46ce851c389f8615df10d7ba6d9615c0.json", "https://TheoBurnel.github.io/Hoefnagel/annotations/74269b7a522161a1691c247904b95b99.json", "https://TheoBurnel.github.io/Hoefnagel/annotations/b74a2eb4cdeea6f30416a1d5eceac6c8.json", "https://TheoBurnel.github.io/Hoefnagel/annotations/bfad3daf7ce44bf1c8606ca1bb6b6d5f.json" ],
   "@id" : "https://TheoBurnel.github.io/Hoefnagel/annotations/collection.json",
   "label" : "All annotations loaded in TheoBurnel/Hoefnagel project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
