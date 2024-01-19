@@ -1,0 +1,76 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cathédrale",
+      "@type" : "oa:Tag",
+      "chars" : "Cathédrale"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cath&eacute;drale <a href=\"https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Sainte-Marie_de_Burgos\" target=\"_blank\" rel=\"noopener\">Sainte-Marie (1221-XVe)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cath&eacute;drale <a href=\"https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Sainte-Marie_de_Burgos\" target=\"_blank\" rel=\"noopener\">Sainte-Marie</a> (1221-XVe)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:46:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705679207579",
+    "dcterms:modified" : "2024-01-19T15:46:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2624,1044,713,458"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2624.45064,1044.04026h356.39321v0h356.39321v228.81616v228.81616h-356.39321h-356.39321v-228.81616z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_fd5e59ab-4f78-4a7a-84ea-af6221e648f7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178868h/canvas/f1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "?",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>?</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:55:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705679708795",
+    "dcterms:modified" : "2024-01-19T15:55:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3327,3302,461,409"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3394.63273,3361.53348c42.53691,-34.34213 102.54212,-59.91555 162.83811,-59.885v0v0c60.29599,0.03055 112.82392,23.95408 162.83811,59.885c50.0142,35.93092 69.45408,90.68271 67.44975,144.57518c-2.00433,53.89247 -25.45287,106.92561 -67.44975,144.57518c-41.99689,37.64957 -102.54212,59.91555 -162.83811,59.885c-60.29599,-0.03055 -120.34274,-22.35765 -162.83811,-59.885c-42.49537,-37.52735 -67.43937,-90.25496 -67.44975,-144.57518c-0.01039,-54.32022 24.91284,-110.23305 67.44975,-144.57518z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_3934e976-a5fd-48a5-9d00-fec27202ac14\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178868h/canvas/f1"
+    } ]
+  } ],
+  "@id" : "https://TheoBurnel.github.io/Hoefnagel/annotations/4a579b5b840789a33adca49ca7033020.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
