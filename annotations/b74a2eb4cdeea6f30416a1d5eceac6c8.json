@@ -1,0 +1,154 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cathédrale",
+      "@type" : "oa:Tag",
+      "chars" : "Cathédrale"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cath&eacute;drale <a href=\"https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-%C3%89tienne_de_Bourges\" target=\"_blank\" rel=\"noopener\">Saint-Etienne (1195-1230)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cath&eacute;drale <a href=\"https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-%C3%89tienne_de_Bourges\" target=\"_blank\" rel=\"noopener\">Saint-Etienne</a> (1195-1230)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:21:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705677680362",
+    "dcterms:modified" : "2024-01-19T15:21:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3677,2830,702,433"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3676.86539,2830.49243h350.8953v0h350.8953v216.5605v216.5605h-350.8953h-350.8953v-216.5605z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9527a6e2-2700-4753-9103-e524987b124e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178981k/canvas/f1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Église",
+      "@type" : "oa:Tag",
+      "chars" : "Église"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\">&Eacute;glise Saint Jacques",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\">&Eacute;glise Saint Jacques<br /></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:16:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705677395912",
+    "dcterms:modified" : "2024-01-19T15:16:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2299,1030,273,237"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2298.66648,1030.12913h136.59311v0h136.59311v118.51403v118.51403h-136.59311h-136.59311v-118.51403z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ef388105-6606-4a6b-9b5f-91c1e058ee8a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178981k/canvas/f1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cathédrale",
+      "@type" : "oa:Tag",
+      "chars" : "Cathédrale"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cath&eacute;drale <a href=\"https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Sainte-Croix_d%27Orl%C3%A9ans\" target=\"_blank\" rel=\"noopener\">Sainte-Croix (1287-1829)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cath&eacute;drale <a href=\"https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Sainte-Croix_d%27Orl%C3%A9ans\" target=\"_blank\" rel=\"noopener\">Sainte-Croix</a> (1287-1829)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:19:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705677596621",
+    "dcterms:modified" : "2024-01-19T15:19:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3466,817,534,411"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3466.44727,816.52923h266.79782v0h266.79782v205.72087v205.72087h-266.79782h-266.79782v-205.72087z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_654fe703-0a37-45f1-8160-eccf2c3d3e13\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178981k/canvas/f1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Église",
+      "@type" : "oa:Tag",
+      "chars" : "Église"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\">&Eacute;glise Notre-Dame",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\">&Eacute;glise Notre-Dame<br /></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:23:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705677796812",
+    "dcterms:modified" : "2024-01-19T15:23:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1159,3055,364,302"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1158.86885,3055.42512h182.19578v0h182.19578v150.95513v150.95513h-182.19578h-182.19578v-150.95513z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b0b602bc-01cb-4889-9674-074717e0707a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178981k/canvas/f1"
+    } ]
+  } ],
+  "@id" : "https://TheoBurnel.github.io/Hoefnagel/annotations/b74a2eb4cdeea6f30416a1d5eceac6c8.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
