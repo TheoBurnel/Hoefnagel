@@ -1,0 +1,154 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Église",
+      "@type" : "oa:Tag",
+      "chars" : "Église"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\"> &Eacute;glise<span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\"> Santa Maria del Mar",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\"> &Eacute;glise</span></span><span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\"> Santa Maria del Mar</span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:11:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705677086902",
+    "dcterms:modified" : "2024-01-19T15:11:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4215,1262,202,264"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4215.06583,1262.41385h100.90982v0h100.90982v132.01382v132.01382h-100.90982h-100.90982v-132.01382z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_75932142-6cc3-4934-a297-5a84a388d8ac\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178850h/canvas/f1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Église",
+      "@type" : "oa:Tag",
+      "chars" : "Église"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\">&Eacute;glise Santa Maria",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\">&Eacute;glise Santa Maria<br /></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:15:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705677312723",
+    "dcterms:modified" : "2024-01-19T15:15:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1912,3008,205,245"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1911.54918,3008.4037h102.32364v0h102.32364v122.74545v122.74545h-102.32364h-102.32364v-122.74545z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5d3f4e75-65c1-44c2-aae6-fc61627577ae\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178850h/canvas/f1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Église",
+      "@type" : "oa:Tag",
+      "chars" : "Église"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\"> &Eacute;glise Santa Maria del Pi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\"> &Eacute;glise Santa Maria del Pi</span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:10:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705677028478",
+    "dcterms:modified" : "2024-01-19T15:10:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2764,1205,262,328"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2764.02214,1205.13904h131.07127v0h131.07127v163.87185v163.87185h-131.07127h-131.07127v-163.87185z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_61520c49-b34f-444c-b75a-24d10905a218\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178850h/canvas/f1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cathédrale",
+      "@type" : "oa:Tag",
+      "chars" : "Cathédrale"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cath&eacute;drale <a href=\"https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Sainte-Croix_de_Barcelone\" target=\"_blank\" rel=\"noopener\">de la Sainte-Croix et de Sainte Eulalie (1298-1420)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cath&eacute;drale <a href=\"https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Sainte-Croix_de_Barcelone\" target=\"_blank\" rel=\"noopener\">de la Sainte-Croix et de Sainte Eulalie (1298-1420)</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:12:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705677142016",
+    "dcterms:modified" : "2024-01-19T15:12:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3166,1153,279,343"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3166.13602,1153.41541h139.55418v0h139.55418v171.60073v171.60073h-139.55418h-139.55418v-171.60073z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_35bb2aa7-91b5-4b88-9c64-5ff04f606db7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53178850h/canvas/f1"
+    } ]
+  } ],
+  "@id" : "https://TheoBurnel.github.io/Hoefnagel/annotations/74269b7a522161a1691c247904b95b99.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
