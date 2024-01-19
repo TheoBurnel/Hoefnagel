@@ -1,0 +1,113 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\">Cath&eacute;drale <a href=\"https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Rouen\" target=\"_blank\" rel=\"noopener\">Notre-Dame (1035-1145)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\">Cath&eacute;drale <a href=\"https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Rouen\" target=\"_blank\" rel=\"noopener\">Notre-Dame (1035-1145)</a></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cathédrale",
+      "@type" : "oa:Tag",
+      "chars" : "Cathédrale"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-01-19T15:24:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705677883932",
+    "dcterms:modified" : "2024-01-19T15:26:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1123,235,232,350"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1123.46875,585.1875h115.84375v0h115.84375v-175.09375v-175.09375h-115.84375h-115.84375v175.09375z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_5b558e63-7741-43f7-a068-1bb7cf10b6eb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.25\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10051672m/canvas/f1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Église",
+      "@type" : "oa:Tag",
+      "chars" : "Église"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\">&Eacute;glise Saint-Maclou",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"ILfuVd\" lang=\"fr\"><span class=\"hgKElc\">&Eacute;glise Saint-Maclou<br /></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:25:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705677946508",
+    "dcterms:modified" : "2024-01-19T15:25:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1401,380,146,301"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1400.625,681.65625h72.96875v0h72.96875v-150.59375v-150.59375h-72.96875h-72.96875v150.59375z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2ca3b013-c463-4095-8e31-50ec551fb00b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10051672m/canvas/f1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Abbatiale de Saint-Ouen",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Abbatiale de Saint-Ouen</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/109241319000979437322",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-19T15:29:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705678149730",
+    "dcterms:modified" : "2024-01-19T15:29:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1901,420,275,230"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1901.34375,419.8125h137.28125v0h137.28125v115.07813v115.07813h-137.28125h-137.28125v-115.07812z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_3608c8a8-c437-4ceb-8613-3fa60def19ea\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"7.27273\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10051672m/canvas/f1"
+    } ]
+  } ],
+  "@id" : "https://TheoBurnel.github.io/Hoefnagel/annotations/46ce851c389f8615df10d7ba6d9615c0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
