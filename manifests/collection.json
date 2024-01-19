@@ -1,0 +1,13 @@
+{
+  "id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in TheoBurnel/Hoefnagel project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TheoBurnel.github.io/Hoefnagel/manifests/manifest2.json",
+    "label" : "Théo Burnel IIIF"
+  } ]
+}
